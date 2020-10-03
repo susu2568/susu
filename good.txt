@@ -1,0 +1,17 @@
+aaaaaaaa
+bbbbbbbbbbb
+vvvvvvvvvvvv
+ccccccccccccccc
+
+
+
+
+
+
+
+
+
+
+
+$ git status
+
